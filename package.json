@@ -5,13 +5,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arnesson/cordova-plugin-firebase"
+    "url": "https://github.com/gsandf/cordova-plugin-firebase"
   },
   "name": "cordova-plugin-firebase-gsandf",
   "version": "0.1.22",
   "description": "Cordova plugin for Google Firebase",
   "cordova": {
-    "id": "cordova-plugin-firebase",
+    "id": "cordova-plugin-firebase-gsandf",
     "platforms": [
       "android",
       "ios",
